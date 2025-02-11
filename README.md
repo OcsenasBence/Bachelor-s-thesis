@@ -1,5 +1,3 @@
-Here's a README.md template for your Bachelor's thesis project:
-
 # Mathematics Practice Program for 7th Grade Students
 
 This project is developed as part of my Bachelor's thesis. The goal is to create a program that assists 7th-grade students in practicing various mathematical problems, providing an alternative and engaging method to traditional learning.
